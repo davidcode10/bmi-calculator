@@ -1,4 +1,4 @@
 # bmi-calculator
 
-BMI Calculator App
-Able for iOS or Android
+BMI Calculator App,
+iOS and Android
